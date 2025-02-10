@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://10x-education.github.io/10xeducation.com.au",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
@@ -11,6 +12,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
