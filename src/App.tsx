@@ -7,7 +7,7 @@ function App() {
       <div>
         <h1>10X Education</h1>
         <h2>
-          We are currently taking expressions of interest for tutoring Year 11 and 12 HSC Software Engineering and Enterprise Computing.
+        We are currently taking expressions of interest for Year 11 and 12 HSC Software Engineering and Enterprise Computing tutoring.
         </h2>
         <h3>
           If you are interested please contact: <a href='mailto:enquiries@10xeducation.com.au'>enquiries@10xeducation.com.au</a>
