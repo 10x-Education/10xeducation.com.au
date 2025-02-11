@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://10x-education.github.io/10xeducation.com.au",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
